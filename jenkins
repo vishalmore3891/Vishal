@@ -16,5 +16,5 @@ stages
       echo "Test"
      }
    }
-}
+  }
 }
